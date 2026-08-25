@@ -1,12 +1,11 @@
 #{
 --------------------------------->> Cabeçalho <<--------------------------------
-
 Autor: Bruno Prestes Oliveira
 Data:
 Objetivo:
 
-#}
 
+#}
 clear;
 clc;
 #------------------------>> Declaração-De-Variáveis <<--------------------------
