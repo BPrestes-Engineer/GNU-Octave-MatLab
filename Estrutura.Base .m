@@ -6,6 +6,7 @@ Objetivo:
 
 
 #}
+close all;
 clear;
 clc;
 #------------------------>> Declaração-De-Variáveis <<--------------------------
